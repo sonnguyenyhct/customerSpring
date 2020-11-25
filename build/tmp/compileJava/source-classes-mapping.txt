@@ -1,0 +1,12 @@
+com/codegym/controller/UserController.java
+ com.codegym.controller.UserController
+com/codegym/model/User.java
+ com.codegym.model.User
+com/codegym/ApplicationInit.java
+ com.codegym.ApplicationInit
+com/codegym/controller/PhoneNumberController.java
+ com.codegym.controller.PhoneNumberController
+com/codegym/model/PhoneNumber.java
+ com.codegym.model.PhoneNumber
+com/codegym/ApplicationConfig.java
+ com.codegym.ApplicationConfig
